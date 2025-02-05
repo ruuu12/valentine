@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #ffe6e6;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.yes, .no {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.yes {
+    background-color: #ff66b2;
+    color: white;
+}
+
+.no {
+    background-color: #ff3333;
+    color: white;
+}
+
+#message {
+    font-size: 18px;
+    color: #990000;
+    margin-top: 20px;
+}
